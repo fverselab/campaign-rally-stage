@@ -1,0 +1,24 @@
+{
+  "apiUrl": "https://crm.fv-dev.chelpis-app.com/",
+  "network": {
+    "chainId": 80001,
+    "jsonRpc": "https://matic-mumbai.chainstacklabs.com",
+    "displayName": "Polygon Testnet Mumbai"
+  },
+  "contract": {
+    "type": "ERC721",
+    "address": "0x7e303FF56ee84A5bE85232B14476Cd85d581C6F1"
+  },
+  "price": "0x00",
+  "metadataId": {
+    "man": "87a296d5-bab5-4c89-bd3e-94846cc6034c",
+    "woman": "0249c0a6-d4e0-4125-ae8f-fe4831ee6325",
+    "elder": "77b127d1-f26d-40b3-9d46-8bdf9018f2e7"
+  },
+  "line": {
+    "redirectUri": "",
+    "channelId": "1657308646",
+    "channelSecret": "045de4cc33ad31036faa3aa124e25b14"
+  },
+  "vendorId": "02374897-5bad-47c7-8a25-ba4bce910580"
+}
