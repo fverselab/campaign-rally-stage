@@ -16,7 +16,7 @@
     "elder": "77b127d1-f26d-40b3-9d46-8bdf9018f2e7"
   },
   "line": {
-    "redirectUri": "",
+    "redirectUri": "https://campaign-rally.fv-dev.chelpis-app.com",
     "channelId": "1657308646",
     "channelSecret": "045de4cc33ad31036faa3aa124e25b14"
   },
